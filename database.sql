@@ -60,7 +60,7 @@ CREATE TABLE IF NOT EXISTS reservations (
 
 -- Insert default admin account (password: Admin@123)
 INSERT INTO users (full_name, email, password, role, member_id)
-VALUES ('Admin', 'admin@library.com', '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi', 'admin', 'ADMIN-001');
+VALUES ('Amine', 'admin@library.com', '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi', 'admin', 'ADMIN-001');
 
 -- Insert sample categories
 INSERT INTO categories (name, description) VALUES
