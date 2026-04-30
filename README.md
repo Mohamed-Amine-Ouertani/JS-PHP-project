@@ -56,9 +56,9 @@ Navigate to: **http://localhost/library/**
 
 ## 🔑 Default Credentials
 
-| Role  | Email                | Password   |
-|-------|----------------------|------------|
-| Admin | admin@library.com    | Admin@123  |
+| Role  | Email                | Password       |
+|-------|----------------------|----------------|
+| Amine | admin@library.com    | Admin@hello.tn |
 
 > ⚠️ Change the admin password after first login!
 
